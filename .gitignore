@@ -1,0 +1,7 @@
+target/
+.idea/
+*.iml
+.vscode/
+node_modules/
+# contains local DB credentials
+api-management-service/src/main/resources/application.properties
